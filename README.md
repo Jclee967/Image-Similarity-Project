@@ -1,4 +1,4 @@
-# AASD 4015 Project 2
+# AASD 4015 Project 2 - Build a New Hybrid CNN Classifer and Compare the Performance with 2 CNN Transfer Learning Models
 #### This project is done by: 1. Chun Cheong MAK (101409987) & 2. Hei Yuet LEE (101409639)
 
 Introduction:<br>
